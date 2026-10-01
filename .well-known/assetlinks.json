@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "ir.mahmoudi.tradejournal",
-        "sha256_cert_fingerprints": ["92:56:63:E7:70:10:28:89:4E:C5:2C:A3:63:CF:D0:91:59:F3:A6:AA:99:47:76:1D:6D:BB:DF:C0:AD:0D:23:06"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ir.mahmoudi.tradejournal",
+    "sha256_cert_fingerprints": ["E7:70:10:28:89:4E:C5:2C:A3:63:92:56:63:CF:D0:91:59:F3:A6:AA:99:47:76:1D:6D:BB:DF:C0:AD:0D:23:06"]
+  }
+}]
